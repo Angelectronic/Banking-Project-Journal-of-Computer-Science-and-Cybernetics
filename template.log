@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.24)  26 AUG 2024 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.24)  11 SEP 2024 14:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -548,52 +548,131 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \c@LT@tables=\count300
 \c@LT@chunks=\count301
 \LT@p@ftn=\toks28
+) (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/ctable\ctable.sty
+Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of table and figure floats using key/value directives
+ (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count302
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen177
+\lightrulewidth=\dimen178
+\cmidrulewidth=\dimen179
+\belowrulesep=\dimen180
+\belowbottomsep=\dimen181
+\aboverulesep=\dimen182
+\abovetopsep=\dimen183
+\cmidrulesep=\dimen184
+\cmidrulekern=\dimen185
+\defaultaddspace=\dimen186
+\@cmidla=\count303
+\@cmidlb=\count304
+\@aboverulesep=\dimen187
+\@belowrulesep=\dimen188
+\@thisruleclass=\count305
+\@lastruleclass=\count306
+\@thisrulewidth=\dimen189
+) (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count307
+\rotFPtop=\skip65
+\rotFPbot=\skip66
+\rot@float@box=\box60
+\rot@mess@toks=\toks31
+) (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+ (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
+))
+\@CTframesep=\dimen190
+\@dfltCTframesep=\dimen191
+\@CTframerule=\dimen192
+\@dfltCTframerule=\dimen193
+\@CTwidth=\dimen194
+\@dfltCTwidth=\dimen195
+\@CTcaptionskip=\dimen196
+\@dfltCTcaptionskip=\dimen197
+\@CTmaxwidth=\dimen198
+\@dfltCTmaxwidth=\dimen199
+\@CTmincapwidth=\dimen256
+\@dfltCTmincapwidth=\dimen257
+\@CTfooterwidth=\dimen258
+\@dfltCTfooterwidth=\dimen259
+\@CTw=\dimen260
+\@CTfloatwidth=\dimen261
+\@CToldsep=\dimen262
+\@CToldrule=\dimen263
+\CT@t=\box61
+\@CTcurftwidth=\dimen264
 ) (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
-\l__pdf_internal_box=\box60
+\l__color_backend_stack_int=\count308
+\l__pdf_internal_box=\box62
 ) (template.aux)
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
  (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
-\scratchdimen=\dimen177
-\scratchbox=\box61
-\nofMPsegments=\count304
-\nofMParguments=\count305
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count306
-\MPscratchDim=\dimen178
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count309
+\scratchdimen=\dimen265
+\scratchbox=\box63
+\nofMPsegments=\count310
+\nofMParguments=\count311
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count312
+\MPscratchDim=\dimen266
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
+\everyMPtoPDFconversion=\toks33
 )
 
 Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
 (hyperref)                using 11in.
 
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 13.
 (template.out) (template.out)
 \@outlinefile=\write3
 \openout3 = `template.out'.
@@ -604,20 +683,21 @@ Package caption Info: longtable package is loaded.
  (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
+Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
  (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
  (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 49.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 50.
  (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 72.
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 73.
  (C:\Users\lg\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -629,7 +709,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1{C:/Users/lg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 ]
-Overfull \hbox (0.60631pt too wide) in paragraph at lines 105--106
+Overfull \hbox (0.60631pt too wide) in paragraph at lines 106--107
 []\cn Each web-site pro-vides valu-able in-sights into pub-lic sen-ti-ment to-wards bank-ing in-sti-tu-tions through
  []
 
@@ -643,7 +723,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <images/diagram.png, id=167, 941.01563pt x 568.37344pt>
 File: images/diagram.png Graphic file (type png)
 <use images/diagram.png>
-Package pdftex.def Info: images/diagram.png  used on input line 168.
+Package pdftex.def Info: images/diagram.png  used on input line 169.
 (pdftex.def)             Requested size: 416.2623pt x 251.42067pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -655,7 +735,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <images/newplot.png, id=182, 1093.83656pt x 820.56563pt>
 File: images/newplot.png Graphic file (type png)
 <use images/newplot.png>
-Package pdftex.def Info: images/newplot.png  used on input line 231.
+Package pdftex.def Info: images/newplot.png  used on input line 232.
 (pdftex.def)             Requested size: 416.2623pt x 312.26892pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -676,12 +756,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-Underfull \hbox (badness 10000) in paragraph at lines 393--393
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 480--480
 []|\T5/cmr/bx/n/10.95 Credit Growth -
  []
 
 
-LaTeX Warning: Float too large for page by 59.72505pt on input line 397.
+LaTeX Warning: Float too large for page by 59.72505pt on input line 484.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -689,16 +772,19 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 (template.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
+ [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13])
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
+ [14])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15] (template.aux)
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16] (template.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -708,20 +794,20 @@ Package rerunfilecheck Info: File `template.out' has not changed.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 55 ({)
+### simple group (level 1) entered at line 56 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13879 strings out of 474486
- 220278 string characters out of 5745171
- 1950542 words of memory out of 5000000
- 35829 multiletter control sequences out of 15000+600000
+ 14997 strings out of 474486
+ 238757 string characters out of 5745171
+ 1957542 words of memory out of 5000000
+ 36904 multiletter control sequences out of 15000+600000
  580591 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,79p,1069b,732s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,12n,79p,1070b,731s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\lg\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\lg\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr6.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/lg/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt9.pfb>
-Output written on template.pdf (15 pages, 313821 bytes).
+Output written on template.pdf (16 pages, 321038 bytes).
 PDF statistics:
- 346 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
+ 359 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
  203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
