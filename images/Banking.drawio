@@ -37,6 +37,12 @@
         <mxCell id="SDNTvZhVfPtpmoRdGuO7-11" value="Store in database&lt;div&gt;SVM-based classification&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="235" width="140" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="SDNTvZhVfPtpmoRdGuO7-12" value="Vistral-7B&lt;div&gt;PhoBert&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="375" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="SDNTvZhVfPtpmoRdGuO7-13" value="Matplotlib" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="368" width="140" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
